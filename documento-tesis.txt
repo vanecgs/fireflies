@@ -1,0 +1,141 @@
+#Marco Referencial
+
+##Physichromie
+Año: 1959. URL: http://www.cruz-diez.com/es/work/physichromie/
+
+Carlos Cruz Diez es un artista que trabaja en torno a la cinemática, sus obras se basan en los fundamentos del comportamiento del color, concibiendo a éste como una realidad autónoma que evoluciona en el tiempo y el espacio sin ayuda de la forma y sin necesidad de un soporte.
+
+Physichromie es una de sus 8 investigaciones que hasta el día de hoy continúa en desarrollo. Cada obra consta de una estructura que permite apreciar diferentes comportamientos y otras condiciones del color, estos aspectos pueden ser modificado por el desplazamiento e intensidad de la luz ambiente y del espectador proyectando el color en el espacio y creando una situación evolutiva de color aditivo, reflejo y sustractivo.
+
+En cada estructura existe una interacción entre las series de tramas de color expuestas sobre láminas verticales, estas tramas se transforman las unas con las otras generando nuevas gamas cromáticas que a simple vista no se encuentran presentes en el soporte. Además, por efectos del desplazamiento del espectador o de la fuente luminosa, también se crean una serie de variaciones cromáticas que también se encuentran presentes en el paisaje real pero que en la obra pasan a tener un mayor protagonismo.
+
+El trabajo de Carlos Cruz Diez en Physichromie aporta a esta investigación distintos aspectos y posibilidades en cuanto a la utilización del color para generar una representación visual de las entidades que conformarán el ecosistema de luciérnagas, ampliando el propósito del mismo dentro de la obra para lograr entablar una conexión más profunda con el espectador y que pueda llegar a relacionarse directamente con la obra. 
+
+Sin embargo, existen factores que dentro del trabajo de Cruz Diez pueden transformarse en limitantes a la hora de aplicar la técnica empleada en sus obras. El carácter estático que cada estructura guarda delimita, o más bien ayuda a predecir, los posibles resultados que se pueden obtener a partir del movimiento de la audiencia y los cambios de luz. En el caso de está investigación, la posición de las tramas de color cambiarán continuamente como respuesta a la intervención del público, con lo que quizás no se alcance a generar las condiciones ideales para las distintas condiciones del color que plantea este artista.
+
+
+##Duality
+Año: 2006. URL: http://www.artcom.de/en/projects/project/detail/duality/
+
+Art+COM es una compañía integrada por diseñadores, arquitectos, artistas y hackers de la ciudad de Berlín, Alemania. Su principal motivación es realizar proyectos originales e innovadores que sirvan como base a otros proyectos en las áreas de artes, diseño, ciencia y tecnología.
+
+El objetivo de Duality era diseñar una instalación interactiva que respondiera a su ubicación en relación al contenido y de manera física a los transeúntes. Se estableció un límite entre lo real y virtual por medio de una pasarela de 4x4 metros con televisores LED cubiertos con un vidrio especial para soportar el paso del público y un pozo de agua. Cada sección de la pasarela cuenta con celdas de carga que transforman la fuerza de las pisadas en señales eléctricas, permitiendo medir exactamente la posición y la intensidad en cada pisada. 
+
+En las pantallas se genera una animación de una onda (similar a cuando se arroja una piedra en un estanque) con cada pisada sobre la pasarela y una vez que alcanza el final de la esta, el efecto de propagación de la onda continúa su trayectoria en el pozo por medio de mecanismos actuadores ubicados debajo de la plataforma, que son controlados con tal precisión que generan dan continuidad al efecto de propagación de la misma onda en el agua.
+
+Esta estrecha relación entre los soportes utilizados y el espectador representa un punto de partida para generar el mismo efecto en el resultado de este trabajo. Si bien no existirán dos soportes con los cuales la audiencia pueda medir el impacto de su influencia sobre la obra ni poner en evidencia la idea de lo real y lo virtual, es importante establecer una relación entre el mecanismo receptor de información y el resultado plasmado en la proyección del ecosistema resultante, para así generar un mayor sentimiento de identificación con el espacio en el espectador.
+
+
+##Luci
+Año: 2007. URL: http://www.sonoscop.net/jmb/lucy/index.html
+
+Esta es una instalación que comienza en 1994 realizada por José Manuel Berenguer, compositor y director de orquesta, inspirada en el comportamiento bioluminiscente de las luciérnagas. Consta de cientos de luciérnagas electrónicas, que no son más que un básico circuito electrónico que permite emitir a cada una su propio pulso que a nivel auditivo se percibe como una especie de latido que puede ser percibido a través de los pequeños altavoces con los que cada luciérnaga cuenta. Según la cantidad de luz, los latidos serán más rápidos (mayor intensidad lumínica) o más lentos (menos intensidad). 
+
+Cada luciérnaga cuenta con un emisor de luz infrarroja de manera que cuando las luces de la sala bajan su intensidad, es posible que cada luciérnaga pueda leer las señales que emiten sus vecinas lo que genera un aumento en la tensión de cada elemento, con esto el latido tiende a adelantarse pudiendo llegar a sincronizarse los sonidos que emite cada luciérnaga. 
+
+El artista inicialmente intenta con cinco luciérnagas y luego comienza a introducir la mayor cantidad de estas entidades con la idea de conseguir una mayor aleatoriedad y el retraso en ese estado de sincronía que el sistema eventualmente alcanza, los resultados que obtuvo fueron interesantes en cuanto a los ritmos complejos que genera la estructura y la interacción que se generó entre las entidades.
+
+La idea de construir dispositivos electronicos básicos como receptores de información y emuladores de una especie es el principal elemento con el que la obra de Berenguer y esta investigación se relacionan. La elaboración de circuitos con componentes electrónicos abre la posibilidad de trabajar con un mayor número de entidades dentro del ecosistema gracias a su fácil ensamble, capacidad de adaptación, calibración y ajuste a la hora de intervenir distintos espacios. 
+
+
+##Swarm
+Año: Agosto 2008. URL: http://marcinignac.com/experiments/swarm/
+
+Marcin Ignac es un artista polaco que trabaja en distintas áreas, buscando realizar experimentos en el campo de visualización de datos, tecnología, diseño y vida artificial.
+
+Esta animación es el resultado de un experimento sobre el comportamiento de organismos basado en el concepto de flocking o swarming. El algoritmo fue desarrollado por el propio Ignac, el experimento se realizó sobre una tablet multitouch donde pueden verse una cantidad de entidades moviéndose de manera aleatoria, hasta el momento en que se produce una interacción con la pantalla del dispositivo. Cada punto de contacto generado por los gestos táctiles, se convierte en un foco de interés para las entidades dibujadas sobre la pantalla, lo que ocasiona que comiencen a moverse hacia esos puntos.
+
+Para efectos de este trabajo, al igual que Ignac, es necesario desarrollar un algoritmo propio que se adapte a las necesidades y condiciones del proyecto, inspirado en el comportamiento de las luciérnagas y los algoritmos metaheurísticos existentes para la solución de problemas.
+
+Teniendo en cuenta que Swarm es un experimento, inmediatamente plantea la posibilidad de explorar las opciones a nivel visual en cuanto a mejorar el movimiento de las entidades para lograr un comportamiento que parezca aún más natural. Es visible, en la animación, factores como la aleatoriedad y autonomía pero hay una carencia de naturalidad al momento en que los organismos responden al estímulo externo y comienzan a dirigirse al punto de interés generado.
+
+
+##Animated Fields
+Año: Mayo 2009. URL: http://www.justinlui.net/projects/animatefield/
+
+Justin Lui es un arquitecto, artista y diseñador que busca integrar medios responsivos con el mundo físico.
+
+Esta obra parte del concepto de Archiectural Skin, intentando ir un poco más allá de su significado al dar volumen a esta piel y que a su vez responda y tome vida una vez que el espectador entra en contacto con ella. 
+
+Esta instalación consta de una nube de conformada por hilos de fibra óptica colgados de verticalmente hasta casi llegar al suelo, dejando que los transeúntes puedan moverse entre estos hilos. La punta de los filamentos se enciende en colo rojo denotando la posición de la persona, una vez que comienza a desplazarse el color cambia a amarillo, dejando una estela que describe la trayectoria recorrida.
+
+El hecho de que la audiencia pueda sumergirse y entrar en contacto directamente con los componentes físicos de la obra, es un aspecto que fortalece la idea de generar esa relación espacio - espectador, que pueda identificarse y establecer una conexión entre sus acciones dentro del lugar, los cambios que se generan en el sistema y las respuestas a partir de su interacción. Lo cual invita a continuar explorando de manera lúdica en busca de nuevas respuestas y formas resultantes.
+
+
+##Be Amazed
+Año: Julio 2012. URL: http://marcinignac.com/projects/be-amazed/
+
+En esta oportunidad Marcin Ignac realiza una obra para el festival de música Roskilde, donde se habilitó un espacio de descanso de unos 500m2 para que la audiencia pudiera relajarse entre un concierto y otro. En la instalación se colocaron 2 proyectores a unos 20 metros de altura apuntando hacia el piso del espacio, en los cuales proyectaban una serie de laberintos. En el centro del lugar se colocó un dispositivo que servía como control para que la audiencia desde allí pudiera modificar los diferentes laberintos que estaban siendo proyectados.
+
+
+
+##Fly Tweet
+Año: Abril 2013. URL: http://dwbowen.com/fly_tweet.html
+
+David Bowen es un artista que realiza obras interactivas relacionadas con robótica y cinética. La obra Fly Tweet cuenta con un dispositivo que envía mensajes a Twitter escritos por un grupo de moscas. Las moscas viven dentro de una esfera de acrílico, junto con un teclado de computadora. A medida que las moscas se mueven e interactúan entre sí y con las teclas del teclado su movimiento es registrado. Cuando una tecla en particular se activa por las moscas, el carácter correspondiente se introduce en un cuadro de texto y cuando 140 caracteres son alcanzados o las moscas oprimen la tecla de "enter", se envía el mensaje vía Twitter que contiene los caracteres acumulados. Por lo tanto los mensajes de Twitter se envían continuamente en tiempo real basado en los simples movimientos de la comunidad de las moscas. Estos mensajes se acumulan constantemente aparecen como registros de la actividad al azar dentro de la amplia esfera de los medios de comunicación social y las redes.
+
+
+#Marco Teórico 
+
+##Natural Computing
+
+The Many Facets of Natural Computing. Lila Kari, Grzegorz Rozenberg.
+http://www.csd.uwo.ca/~lila/Natural-Computing-Review.pdf
+
+“Among the oldest examples of nature-inspired models of computation are the cellular automata conceived by Ulam and von Neumann in the 1940s. John von Neumann, who was trained in both mathematics and chemistry, investigated cellular automata as a framework for the understanding of the behaviour of complex systems.”
+
+“The reductionist approach to biology tries to identify all the individual components of functional
+processes that take place in an organism, in such a way that the processes and the interactions between the components can be understood. In contrast, systems biology takes a systemic approach in focusing instead on the interaction networks themselves, and on the properties of the biological systems that arise because of these interaction networks.”
+
+“The mantra of synthetic biology is that one can understand only what one can construct. Thus, the main focus of synthetic biology is to take parts of natural biological systems and use them to build an artificial biological system for the purpose of understanding natural phenomena, or for
+a variety of possible applications.”
+
+
+##Evolutionary Computation
+
+The Many Facets of Natural Computing. Lila Kari, Grzegorz Rozenberg.
+http://www.csd.uwo.ca/~lila/Natural-Computing-Review.pdf
+
+“An artificial evolutionary system is a computational system based on the notion of simulated evolution. It features a constant- or variable-size population of individuals, a fitness criterion according to which the individuals of the population are being evaluated, and genetically-inspired operators that produce the next generation from the current one. In an evolutionary system, the initial population of individuals is generated at random or heuristically.”
+
+
+##Swarm Intelligence
+
+The Many Facets of Natural Computing. Lila Kari, Grzegorz Rozenberg.
+http://www.csd.uwo.ca/~lila/Natural-Computing-Review.pdf
+
+“A swarm is a group of mobile biological organisms (such as bacteria, ants, termites, bees, spiders, fish, birds) wherein each individual communicates with other either directly or indirectly by action on its local environment.”
+
+“Swarm intelligence, sometimes referred to as collective intelligence, is defined as the problem-solving behavior that emerges from the interaction of such a collection
+of individual agents.”
+
+“A particle swarm optimization algorithm starts with a swarm of “particles”, each representing a potential solution to a problem, similar to the population of individuals in evolutionary computation. Particles move through a multidimensional search space and their positions are updated according to their own experience and that of their neighbors, by adding “velocity” to their current positions. The velocity of a particle depends on its previous velocity (the “inertia” component), the tendency towards the past personal best position (the cognitive, “nostalgia”, component), and the move towards a global or local neighborhood best (the “social” component), [35]. The cumulative effect is that each particle converges towards a point between the global best and its personal best.“
+
+A comprehensive review of firefly algorithms. Iztok Fistera, Iztok Fister Jr.a, Xin-She Yangb, Janez Bresta.
+
+“Although these swarms consist of relatively unsophisticated individuals, they exhibit coordinated behavior that directs the swarms to their desired goals. This usually results in the self-organizing behavior of the whole system, and collective intelligence or swarm intelligence is in essence the self-organization of such multi-agent systems, based on simple interaction rules.”
+
+
+##Firefly Algorithm
+
+A comprehensive review of firefly algorithms. Iztok Fistera, Iztok Fister Jr.a, Xin-She Yangb, Janez Bresta.
+
+“FA is one of the recent swarm intelligence methods developed by Yang in 2008 and is a kind of stochastic, nature-inspired, meta-heuristic algorithm that can be applied for solving the hardest optimization problems.”
+
+“The main characteristic of fireflies is their flashing light. These lights have two fundamental functions: to attract mating partners and to warn potential predators. However, the flashing lights obey more physical rules. On the one hand, the light intensity I decreases as the distance r increases according to the term I ∝ 1/r2 . This phenomenon inspired Yang [9] to develop the firefly algorithm. On the other hand, the firefly acts as an oscillator that charges and discharges (fires) the light at regular intervals, i.e., at θ = 2π. When the firefly is placed within the vicinity of another firefly, a mutual coupling occurs between both fireflies. This behavior of fireflies especially inspired the solution of graph coloring problems.”
+
+“Fireflies are characterized by their flashing light produced by biochemical process bioluminescence. Such flashing light may serve as the primary courtship signals for mating. Besides attracting mating partners, the flashing light may also serve to warn off potential predators.”
+
+
+##Assembles
+
+Philosophy and Simulation. the Emergence of Synthetic Reason. DeLanda, Manuel.
+
+“assemblages are not particular members of a general category but unique and singular individuals”
+
+“assemblages must always be thought as parts of populations  which their identities can change within limits produc­ing a certain statistical distribution of variation The potential range and possible lines of variation are determined by the diagram shared by all population members but their actual degree of similarity is determined by the values of the parameters at any given time the more territorialized or coded the members of the population are the more they
+tend to resemble one another”
+
+“Every assemblage must be treated as unique historical entity characterized both by a set of actual emergent properties (making it an individual singularity) as well as by the structure of possibility spaces defining its tendencies and capacities a structure defined by universal singularities).”
+
+
