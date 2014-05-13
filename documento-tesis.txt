@@ -1,78 +1,89 @@
 #Marco Referencial
 
-##Physichromie
-Año: 1959. URL: http://www.cruz-diez.com/es/work/physichromie/
+##Physichromie (1959).
 
-Carlos Cruz Diez es un artista que trabaja en torno a la cinemática, sus obras se basan en los fundamentos del comportamiento del color, concibiendo a éste como una realidad autónoma que evoluciona en el tiempo y el espacio sin ayuda de la forma y sin necesidad de un soporte.
+Carlos Cruz-Diez es un artista que trabaja en torno a la cinemática, su propuesta "se fundamenta en el color concebido como una realidad autónoma, desprovista de anécdotas, que evoluciona en el tiempo y el espacio reales sin ayuda de la forma y aún sin necesidad de soporte" ([Atelier Cruz-Diez][1]). Physichromie es una de sus 8 investigaciones que hasta el día de hoy continúa en desarrollo. 
 
-Physichromie es una de sus 8 investigaciones que hasta el día de hoy continúa en desarrollo. Cada obra consta de una estructura que permite apreciar diferentes comportamientos y otras condiciones del color, estos aspectos pueden ser modificado por el desplazamiento e intensidad de la luz ambiente y del espectador proyectando el color en el espacio y creando una situación evolutiva de color aditivo, reflejo y sustractivo.
+> Physichromie está compuesta por estructuras que revelan diferentes comportamientos y otras condiciones del color, se modifican según el desplazamiento e intensidad de la luz ambiente y del espectador proyectando el color en el espacio y creando una situación evolutiva de color aditivo, reflejo y sustractivo.
+>
+> Las fisicromías actúan como “trampas de luz” en un espacio donde interaccionan una serie de tramas de color. Tramas que se transforman las unas con las otras generando nuevas gamas cromáticas no presentes en el soporte.  De esta forma el color invade el espacio circunscrito entre las láminas verticales —moduladores de la luz— que cubren toda la obra. En ellas, además, por efectos del desplazamiento del espectador o de la fuente luminosa, se crean una serie de variaciones cromáticas, semejantes a las observadas en el espacio real del paisaje. ([Atelier Cruz-Diez][2])
 
-En cada estructura existe una interacción entre las series de tramas de color expuestas sobre láminas verticales, estas tramas se transforman las unas con las otras generando nuevas gamas cromáticas que a simple vista no se encuentran presentes en el soporte. Además, por efectos del desplazamiento del espectador o de la fuente luminosa, también se crean una serie de variaciones cromáticas que también se encuentran presentes en el paisaje real pero que en la obra pasan a tener un mayor protagonismo.
+El trabajo de Carlos Cruz-Diez en Physichromie aporta a esta investigación distintos aspectos y posibilidades en cuanto a la utilización del color para generar una representación visual de las entidades que conformarán el ecosistema de luciérnagas, ampliando el propósito del mismo dentro de la obra para lograr entablar una conexión más profunda con el espectador y que pueda llegar a relacionarse directamente con la obra. 
 
-El trabajo de Carlos Cruz Diez en Physichromie aporta a esta investigación distintos aspectos y posibilidades en cuanto a la utilización del color para generar una representación visual de las entidades que conformarán el ecosistema de luciérnagas, ampliando el propósito del mismo dentro de la obra para lograr entablar una conexión más profunda con el espectador y que pueda llegar a relacionarse directamente con la obra. 
+Sin embargo, existen factores que dentro del trabajo de Cruz-Diez pueden transformarse en limitantes a la hora de aplicar la técnica empleada en sus obras. El carácter estático que cada estructura guarda en Physichromie ayuda a predecir los posibles resultados que se pueden obtener a partir del movimiento de la audiencia y los cambios de luz. En el caso de está investigación, la posición de las tramas de color cambiarán continuamente como respuesta a la intervención del público, con lo que quizás no se alcance a generar las condiciones ideales para las distintas condiciones del color que plantea el artista.
 
-Sin embargo, existen factores que dentro del trabajo de Cruz Diez pueden transformarse en limitantes a la hora de aplicar la técnica empleada en sus obras. El carácter estático que cada estructura guarda delimita, o más bien ayuda a predecir, los posibles resultados que se pueden obtener a partir del movimiento de la audiencia y los cambios de luz. En el caso de está investigación, la posición de las tramas de color cambiarán continuamente como respuesta a la intervención del público, con lo que quizás no se alcance a generar las condiciones ideales para las distintas condiciones del color que plantea este artista.
+[1]: http://www.cruz-diez.com/es/biografia/
+[2]: http://www.cruz-diez.com/es/work/physichromie/
 
 
-##Duality
-Año: 2006. URL: http://www.artcom.de/en/projects/project/detail/duality/
+##Duality (2006). 
 
-Art+COM es una compañía integrada por diseñadores, arquitectos, artistas y hackers de la ciudad de Berlín, Alemania. Su principal motivación es realizar proyectos originales e innovadores que sirvan como base a otros proyectos en las áreas de artes, diseño, ciencia y tecnología.
+[Art+COM][3] se define como una compañía integrada por diseñadores, arquitectos, artistas y hackers de la ciudad de Berlín, Alemania cuya principal motivación es realizar proyectos originales e innovadores que sirvan como base a otros proyectos en las áreas de artes, diseño, ciencia y tecnología.
 
-El objetivo de Duality era diseñar una instalación interactiva que respondiera a su ubicación en relación al contenido y de manera física a los transeúntes. Se estableció un límite entre lo real y virtual por medio de una pasarela de 4x4 metros con televisores LED cubiertos con un vidrio especial para soportar el paso del público y un pozo de agua. Cada sección de la pasarela cuenta con celdas de carga que transforman la fuerza de las pisadas en señales eléctricas, permitiendo medir exactamente la posición y la intensidad en cada pisada. 
+>Compared to the traditional “art in public space sculptures” the goal was to design an interactive installation that responds to its location in terms of the content and physically to the passers by.
+>
+>The boundary between a walkway and an adjacent artificial pond was chosen as the location for the work. This interface between “liquid” (water) and “solid” (land) was thematically used and augmented by the question of “real” (water ripples) and “virtual” (artificial light waves). ([Art+COM][4])
+
+Establecieron un límite entre lo real y virtual por medio de una pasarela de 4x4 metros con televisores LED cubiertos con un vidrio especial para soportar el paso del público y un pozo de agua. Cada sección de la pasarela cuenta con celdas de carga que transforman la fuerza de las pisadas en señales eléctricas, permitiendo medir exactamente la posición y la intensidad de cada una.
 
 En las pantallas se genera una animación de una onda (similar a cuando se arroja una piedra en un estanque) con cada pisada sobre la pasarela y una vez que alcanza el final de la esta, el efecto de propagación de la onda continúa su trayectoria en el pozo por medio de mecanismos actuadores ubicados debajo de la plataforma, que son controlados con tal precisión que generan dan continuidad al efecto de propagación de la misma onda en el agua.
 
 Esta estrecha relación entre los soportes utilizados y el espectador representa un punto de partida para generar el mismo efecto en el resultado de este trabajo. Si bien no existirán dos soportes con los cuales la audiencia pueda medir el impacto de su influencia sobre la obra ni poner en evidencia la idea de lo real y lo virtual, es importante establecer una relación entre el mecanismo receptor de información y el resultado plasmado en la proyección del ecosistema resultante, para así generar un mayor sentimiento de identificación con el espacio en el espectador.
 
+[3]: http://www.artcom.de/en/profile/
+[4]: http://www.artcom.de/en/projects/project/detail/duality/
 
-##Luci
-Año: 2007. URL: http://www.sonoscop.net/jmb/lucy/index.html
+##Luci (2007).
 
-Esta es una instalación que comienza en 1994 realizada por José Manuel Berenguer, compositor y director de orquesta, inspirada en el comportamiento bioluminiscente de las luciérnagas. Consta de cientos de luciérnagas electrónicas, que no son más que un básico circuito electrónico que permite emitir a cada una su propio pulso que a nivel auditivo se percibe como una especie de latido que puede ser percibido a través de los pequeños altavoces con los que cada luciérnaga cuenta. Según la cantidad de luz, los latidos serán más rápidos (mayor intensidad lumínica) o más lentos (menos intensidad). 
+José Manuel Berenguer (compositor y director de orquesta) cuenta en la página del proyecto como en 1994, inspirado en el comportamiento bioluminiscente de las luciérnagas, crea una maqueta de Luci basandose en un circuito que modificó para adaptarlo a sus necesidades.
 
-Cada luciérnaga cuenta con un emisor de luz infrarroja de manera que cuando las luces de la sala bajan su intensidad, es posible que cada luciérnaga pueda leer las señales que emiten sus vecinas lo que genera un aumento en la tensión de cada elemento, con esto el latido tiende a adelantarse pudiendo llegar a sincronizarse los sonidos que emite cada luciérnaga. 
+La obra consta de cientos de luciérnagas electrónicas, que no son más que un básico circuito electrónico que permite emitir a cada una su propio pulso que a nivel auditivo se percibe como una especie de latido que puede ser percibido a través de los pequeños altavoces con los que cada luciérnaga cuenta. Según la cantidad de luz, los latidos serán más rápidos (mayor intensidad lumínica) o más lentos (menos intensidad). 
 
-El artista inicialmente intenta con cinco luciérnagas y luego comienza a introducir la mayor cantidad de estas entidades con la idea de conseguir una mayor aleatoriedad y el retraso en ese estado de sincronía que el sistema eventualmente alcanza, los resultados que obtuvo fueron interesantes en cuanto a los ritmos complejos que genera la estructura y la interacción que se generó entre las entidades.
+Cada luciérnaga cuenta con un emisor de luz infrarroja de manera que cuando las luces de la sala bajan su intensidad, es posible que cada luciérnaga pueda leer las señales que emiten sus vecinas lo que genera un aumento en la tensión de cada elemento, con esto el latido tiende a adelantarse pudiendo llegar a sincronizarse los sonidos que emite cada luciérnaga.
 
-La idea de construir dispositivos electronicos básicos como receptores de información y emuladores de una especie es el principal elemento con el que la obra de Berenguer y esta investigación se relacionan. La elaboración de circuitos con componentes electrónicos abre la posibilidad de trabajar con un mayor número de entidades dentro del ecosistema gracias a su fácil ensamble, capacidad de adaptación, calibración y ajuste a la hora de intervenir distintos espacios. 
+> Para mí, es especialmente interesante esa indeterminación de los caminos que el sistema sigue hasta llegar a la estabilidad. Si se ilumina un componente, por ejemplo, se desestabiliza la totalidad del conjunto. En cuanto se deja de iluminar, el sistema tiende, dando rodeos diversos, a su situación inicial de estabilidad. Actualmente estudio diferentes maneras de desestabilizarlo. Ello dará lugar a la apariencia formal de cada uno de los posibles desarrollos. ¿Qué ocurriría si en lugar de cinco, hubiera cientos de elementos? En eso consiste precisamente este proyecto. Se trata de ensamblar del máximo posible de luciérnagas para conseguir sistemas en los que la estabilidad se alcance mucho más tarde que en el acutal prototipo y de forma aún más aleatoria, más imprevisible. ([Berenguer])
 
+La idea de construir dispositivos electrónicos básicos como receptores de información y emuladores de una especie es el principal elemento con el que la obra de Berenguer y esta investigación se relacionan. La elaboración de circuitos con componentes electrónicos abre la posibilidad de trabajar con un mayor número de entidades dentro del ecosistema gracias a su fácil ensamble, capacidad de adaptación, calibración y ajuste a la hora de intervenir distintos espacios.
 
-##Swarm
-Año: Agosto 2008. URL: http://marcinignac.com/experiments/swarm/
+Por otro lado, la inquietud del artista por explorar la capacidad de estabilización y desestabilización del ecosistema según se interactúe con sus componentes también representa otro punto con el cual se puede vincular este trabajo, la idea es mostrar al espectador como un agente desestabilizador dentro del ecosistema.
+
+[5]: http://www.sonoscop.net/jmb/lucy/lucy.html
+
+##Swarm (2008).
 
 Marcin Ignac es un artista polaco que trabaja en distintas áreas, buscando realizar experimentos en el campo de visualización de datos, tecnología, diseño y vida artificial.
 
 Esta animación es el resultado de un experimento sobre el comportamiento de organismos basado en el concepto de flocking o swarming. El algoritmo fue desarrollado por el propio Ignac, el experimento se realizó sobre una tablet multitouch donde pueden verse una cantidad de entidades moviéndose de manera aleatoria, hasta el momento en que se produce una interacción con la pantalla del dispositivo. Cada punto de contacto generado por los gestos táctiles, se convierte en un foco de interés para las entidades dibujadas sobre la pantalla, lo que ocasiona que comiencen a moverse hacia esos puntos.
 
-Para efectos de este trabajo, al igual que Ignac, es necesario desarrollar un algoritmo propio que se adapte a las necesidades y condiciones del proyecto, inspirado en el comportamiento de las luciérnagas y los algoritmos metaheurísticos existentes para la solución de problemas.
+"An experiment with flocking behavior. Actually it’s not true flocking/boids algorithm but simple one developed by myself." ([Ignac][6]). Para efectos de este trabajo, al igual que Ignac, es necesario desarrollar un algoritmo propio que se adapte a las necesidades y condiciones del proyecto, inspirado en el comportamiento de las luciérnagas y los algoritmos metaheurísticos existentes para la solución de problemas.
 
 Teniendo en cuenta que Swarm es un experimento, inmediatamente plantea la posibilidad de explorar las opciones a nivel visual en cuanto a mejorar el movimiento de las entidades para lograr un comportamiento que parezca aún más natural. Es visible, en la animación, factores como la aleatoriedad y autonomía pero hay una carencia de naturalidad al momento en que los organismos responden al estímulo externo y comienzan a dirigirse al punto de interés generado.
 
+[6]: http://marcinignac.com/experiments/swarm/
 
-##Animated Fields
-Año: Mayo 2009. URL: http://www.justinlui.net/projects/animatefield/
+##Animated Fields (2009).
 
-Justin Lui es un arquitecto, artista y diseñador que busca integrar medios responsivos con el mundo físico.
+Justin Lui es un arquitecto, artista y diseñador, según él, busca integrar medios responsivos con el mundo físico ([Lui][7]).
 
-Esta obra parte del concepto de Archiectural Skin, intentando ir un poco más allá de su significado al dar volumen a esta piel y que a su vez responda y tome vida una vez que el espectador entra en contacto con ella. 
+Esta obra parte del concepto de Archiectural Skin, intentando ir un poco más allá de su significado "The field of lights in Animate Field constitutes a type of mediated architectural 'skin', but unlike most applications of this concept, this skin takes on volumetric dimensions and makes direct contact with the body" ([Lui][8]).
 
 Esta instalación consta de una nube de conformada por hilos de fibra óptica colgados de verticalmente hasta casi llegar al suelo, dejando que los transeúntes puedan moverse entre estos hilos. La punta de los filamentos se enciende en colo rojo denotando la posición de la persona, una vez que comienza a desplazarse el color cambia a amarillo, dejando una estela que describe la trayectoria recorrida.
 
 El hecho de que la audiencia pueda sumergirse y entrar en contacto directamente con los componentes físicos de la obra, es un aspecto que fortalece la idea de generar esa relación espacio - espectador, que pueda identificarse y establecer una conexión entre sus acciones dentro del lugar, los cambios que se generan en el sistema y las respuestas a partir de su interacción. Lo cual invita a continuar explorando de manera lúdica en busca de nuevas respuestas y formas resultantes.
 
-
-##Be Amazed
-Año: Julio 2012. URL: http://marcinignac.com/projects/be-amazed/
-
-En esta oportunidad Marcin Ignac realiza una obra para el festival de música Roskilde, donde se habilitó un espacio de descanso de unos 500m2 para que la audiencia pudiera relajarse entre un concierto y otro. En la instalación se colocaron 2 proyectores a unos 20 metros de altura apuntando hacia el piso del espacio, en los cuales proyectaban una serie de laberintos. En el centro del lugar se colocó un dispositivo que servía como control para que la audiencia desde allí pudiera modificar los diferentes laberintos que estaban siendo proyectados.
+[7]: http://www.justinlui.net/about.html
+[8]: http://www.justinlui.net/projects/animatefield/
 
 
+##Be Amazed (2012).
 
-##Fly Tweet
-Año: Abril 2013. URL: http://dwbowen.com/fly_tweet.html
+En esta oportunidad Marcin Ignac realiza una obra para el festival de música Roskilde en conjunto con otros estudios.
 
-David Bowen es un artista que realiza obras interactivas relacionadas con robótica y cinética. La obra Fly Tweet cuenta con un dispositivo que envía mensajes a Twitter escritos por un grupo de moscas. Las moscas viven dentro de una esfera de acrílico, junto con un teclado de computadora. A medida que las moscas se mueven e interactúan entre sí y con las teclas del teclado su movimiento es registrado. Cuando una tecla en particular se activa por las moscas, el carácter correspondiente se introduce en un cuadro de texto y cuando 140 caracteres son alcanzados o las moscas oprimen la tecla de "enter", se envía el mensaje vía Twitter que contiene los caracteres acumulados. Por lo tanto los mensajes de Twitter se envían continuamente en tiempo real basado en los simples movimientos de la comunidad de las moscas. Estos mensajes se acumulan constantemente aparecen como registros de la actividad al azar dentro de la amplia esfera de los medios de comunicación social y las redes.
+> Roskilde Festival Social Zone, designed a 500 m2 playground, for the audience to hang out and relax in-between concerts. The brief was to use the 2 gigantic video projectors 20 meters in the air, to create an ever changing visual maze universe for the audience to walk and interact with. We invited Science Friction to design a physical interface, a gigantic turn button with visual response, put in the center of the area. And also invited Sixth Sensor / Carl Emil + Marcin Ignac to code a interactive visual universe responding to the input from the button. The audience would then be able to interact directly and turn the whole area around the center of the button in different mazes and universes. ([Dark Matters][9]).
+
+A través del registro fotográfico, puede apreciarse como los espectadores entablaron una relación con el espacio y los componentes de la instalación. Es un objetivo para esta investigación ir más allá de lo lúdico y lograr esa conexión espectador-espacio y un sentido de conciencia espacial, intentando ir desde lo individual a lo grupal, por lo cual es importante mantener una panorámica completa de lo que ocurre alrededor.
+
+[9]: http://darkmatters.dk/?p=105
 
 
 #Marco Teórico 
@@ -137,5 +148,10 @@ Philosophy and Simulation. the Emergence of Synthetic Reason. DeLanda, Manuel.
 tend to resemble one another”
 
 “Every assemblage must be treated as unique historical entity characterized both by a set of actual emergent properties (making it an individual singularity) as well as by the structure of possibility spaces defining its tendencies and capacities a structure defined by universal singularities).”
+
+#Quotes
+
+> Este diálogo entre la obra y los espectadores –quienes por su carácter determinante en la transformación de la pieza reciben el nombre de usuarios– puede desembocar en propuestas narrativas, experiencias sensoriales, ambientes 
+plenamente participativos o creaciones conceptuales. http://www.roalonso.net/es/pdf/arte_y_tec/sentidos.pdf
 
 
